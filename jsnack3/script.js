@@ -6,28 +6,24 @@ let somma = 0;
 
     let number = prompt('Inserisci un numero');
     let realNumber = parseFloat(number);
-    somma += realNumber;
-
-    
+    somma = real
 } 
 
 alert('La somma di tutti i numeri è: ' + somma);
 */
 
+//1 = 10
+// somma + 10 = somma
 
 let i = 0
 
-while (i < 10) {
+while (i < 3) {
 
-    let number = prompt('Inserisci un numero');
-    let realNumber = parseFloat(number);
-    somma += realNumber;
+    let number = parseInt(prompt('Inserisci un numero'));
 
+
+    somma = somma + number;
     i++
-
-
-
-
 }
 
 alert('La somma di tutti i numeri è: ' + somma);

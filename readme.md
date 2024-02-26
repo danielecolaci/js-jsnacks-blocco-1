@@ -11,3 +11,6 @@
 
 ## JSnack 4
 - In un array sono contenuti i nomi degli invitati alla festa del Grande Gatsby, chiedi all'utente il suo nome e comunicagli se può partecipare o no alla festa.
+
+## JSnack 5
+- Crea un array vuoto. Chiedi per 6 volte all'utete di inserire un numero, se è dispari inseriscilo nell'array.
